@@ -13,7 +13,10 @@
       src: url(fonts/MullerMedium.ttf);
       }
 
-
+@font-face {
+      font-family: visby;
+      src: url(fonts/VisbyCFBold.otf);
+      }
 
 .header {
 	background-image: url(images/powtoon.jpg);
@@ -58,6 +61,30 @@
 
 .registration {
 	margin-top: 50px;
+}
+
+.register {
+	margin-top: 20px;
+}
+
+.button {
+	text-decoration: none;
+    background-color: #ff9933;
+    color: white;
+    padding: 10px 100px 10px 100px;
+    border-radius: 22px;
+}
+
+.info-regist {
+	display: flex;
+}
+
+.info {
+	font-family: visby;
+}
+
+.video {
+
 }
 
 @media screen and (max-width: 1600px) {
