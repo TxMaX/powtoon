@@ -49,7 +49,7 @@
 .title {
 	font-family: mullerregular;
 	font-size: 50px;
-	margin-bottom: 20px;
+	margin-bottom: 50px;
 }
 
 .bold {
@@ -64,6 +64,7 @@
 
 .registration {
 	margin: 30px;
+	padding-left: 28%;
 }
 
 .register {
@@ -149,7 +150,7 @@ ul li:before{
 
 
 @media screen and (max-width: 1600px) {
-    .text-block {padding: 20% 0px 0px 25%;}
+    .text-block {padding: 20% 0px 0px 13%;}
 
 }
 @media screen and (max-width: 1280px) {
